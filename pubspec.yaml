@@ -1,0 +1,52 @@
+name: fintech
+description: "A new Flutter project."
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.6
+  firebase_core: ^3.4.0
+  font_awesome_flutter: ^10.5.0
+  firebase_auth: ^5.2.0
+  camera: ^0.11.0+2
+  http: ^1.2.2
+  image_picker: ^1.1.2
+  path_provider: ^2.1.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^3.0.0
+
+flutter:
+  assets:
+    - assets/luxury_villa_1.jpg
+    - assets/luxury_villa_2.jpg
+    - assets/luxury_villa_3.jpg
+    - assets/Mivida_1.jpg
+    - assets/Mivida_2.jpg
+    - assets/Mivida_3.jpg
+    - assets/Mountainview_1.jpg
+    - assets/Mountainview_2.jpg
+    - assets/Mountainview_3.jpg
+    - assets/Townhouse_1.jpg
+    - assets/Townhouse_2.jpg
+    - assets/Townhouse_3.jpg
+    - assets/Visa.jpg
+    - assets/Mastercard.jpg
+    - assets/CVV.png
+
+  uses-material-design: true
+

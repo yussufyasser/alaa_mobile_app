@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "30458743615",
+    "project_id": "fintech-cecdb",
+    "storage_bucket": "fintech-cecdb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30458743615:android:957830ad2d814a7425218a",
+        "android_client_info": {
+          "package_name": "com.example.fintech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByEZB05rEVssPTkXuDWpYBT_NOVXGNspI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30458743615:android:2807eb8bd4da669125218a",
+        "android_client_info": {
+          "package_name": "com.example.fintech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByEZB05rEVssPTkXuDWpYBT_NOVXGNspI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
